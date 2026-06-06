@@ -1,0 +1,20 @@
+# Dependency and environment files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.dll
+*.exe
+
+# Vault data and logs
+vault_storage/
+audit_chain.json
+brain_data.json
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
