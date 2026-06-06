@@ -75,3 +75,6 @@ python run_tests.py
 
 ## ?? License
 MIT License. See `LICENSE` for details.
+
+
+---\n*Version: 1.0.0-Stable*
